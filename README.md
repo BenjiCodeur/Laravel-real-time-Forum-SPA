@@ -5,7 +5,7 @@
 - JWT
 
 ## How to  install 
-1. git clone https://github.com/MWahyudin/Laravel-Q-A.git
+1. git clone https://github.com/MWahyudin/Laravel-real-time-Forum-SPA.git
 2. Composer install 
 3. cp .env.example .env
 4. php artisan key:generate
